@@ -28,3 +28,21 @@
 *.icns lfs
 # Movies
 *.bk2 lfs
+Knapsack filter=lfs diff=lfs merge=lfs -text
+Zzq_CombatMain.uasset filter=lfs diff=lfs merge=lfs -text
+Combat filter=lfs diff=lfs merge=lfs -text
+FullScreenEffect filter=lfs diff=lfs merge=lfs -text
+GameMenu filter=lfs diff=lfs merge=lfs -text
+Test.uasset filter=lfs diff=lfs merge=lfs -text
+FrontEnd filter=lfs diff=lfs merge=lfs -text
+Player filter=lfs diff=lfs merge=lfs -text
+OperationLayout filter=lfs diff=lfs merge=lfs -text
+BiuBiuBiu.uasset filter=lfs diff=lfs merge=lfs -text
+ConsoleCommandUI filter=lfs diff=lfs merge=lfs -text
+Core filter=lfs diff=lfs merge=lfs -text
+Crosshair filter=lfs diff=lfs merge=lfs -text
+DebugPlayerProperty filter=lfs diff=lfs merge=lfs -text
+Hud filter=lfs diff=lfs merge=lfs -text
+NavigationPoint filter=lfs diff=lfs merge=lfs -text
+Skill filter=lfs diff=lfs merge=lfs -text
+Test.txt filter=lfs diff=lfs merge=lfs -text
